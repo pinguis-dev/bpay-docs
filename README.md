@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bpay-docs
 =======
 # bpay ドキュメントリポジトリ
@@ -58,4 +57,3 @@ bpay-docs/
 5. 画面単位で仕様を順に作成中（現在：`login.md`, `home.md`）
 6. 必要に応じて命名規則・設計方針を `conventions.md` にまとめ中
 7. 一通りの画面仕様が整った後、共通Widgetの抽出・再利用設計に進む予定
->>>>>>> 9511038 (Add initial screen and component spec documents)
