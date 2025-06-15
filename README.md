@@ -1,5 +1,3 @@
-# bpay-docs
-=======
 # bpay ドキュメントリポジトリ
 
 このリポジトリは、bpay（Borderless Payment Service）の設計・仕様・画面遷移・API 定義などを記録・共有するためのドキュメント集です。
